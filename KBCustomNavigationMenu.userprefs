@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{21317719-39C2-4875-BEBC-9F11F051B6D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SampleApp/ViewController.cs">
+    <Files>
+      <File FileName="SampleApp/ViewController.cs" Line="84" Column="5" />
+      <File FileName="KBCustomNavigationMenu/ApiDefinition.cs" Line="52" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.SampleApp PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.5A6635EF-A4C6-4CDD-808F-84875B84764E" />
+</Properties>
